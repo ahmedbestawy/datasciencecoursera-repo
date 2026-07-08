@@ -14,16 +14,16 @@ It includes four baseline plots covering macro power distributions, voltage stab
 
 #### Plot 1: Global Active Power Distribution
 
-![Global Active Power Histogram](Plots/plot1.png)
+![Global Active Power Histogram](Electric-power-consumption/Plots/plot1.png)
 
 #### Plot 2: Global Active Power Over Time
 
-![Global Active Power Time Series](Plots/plot2.png)
+![Global Active Power Time Series](Electric-power-consumption/Plots/plot2.png)
 
 #### Plot 3: Energy Sub-Metering Profiles
 
-![Energy Sub-Metering](Plots/plot3.png)
+![Energy Sub-Metering](Electric-power-consumption/Plots/plot3.png)
 
 #### Plot 4: Multi-Panel Diagnostic Dashboard
 
-![Multi-Panel Dashboard](Plots/plot4.png)
+![Multi-Panel Dashboard](Electric-power-consumption/Plots/plot4.png)
