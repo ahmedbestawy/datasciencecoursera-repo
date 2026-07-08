@@ -9,3 +9,21 @@ I focused on data cleaning by merging text columns into a proper POSIXct time se
 Two separate folders for my R scripts and the final exported PNG figures.
 
 It includes four baseline plots covering macro power distributions, voltage stability, and layered zone sub-metering data.
+
+### 📈 Project Gallery
+
+#### Plot 1: Global Active Power Distribution
+
+![Global Active Power Histogram](plots/plot1.png)
+
+#### Plot 2: Global Active Power Over Time
+
+![Global Active Power Time Series](plots/plot2.png)
+
+#### Plot 3: Energy Sub-Metering Profiles
+
+![Energy Sub-Metering](plots/plot3.png)
+
+#### Plot 4: Multi-Panel Diagnostic Dashboard
+
+![Multi-Panel Dashboard](plots/plot4.png)
